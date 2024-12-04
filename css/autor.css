@@ -1,0 +1,27 @@
+.img{ 
+    margin-top: 5px;
+    margin-left: 5px;
+   
+}
+
+.autor{
+    margin-right: 10px;
+    margin-left: 10px;  
+    border-radius: 15px;
+    background-color: antiquewhite;
+    display: flex; 
+    align-items: center; 
+    margin: 20px;
+    border: 3px solid #9ba8ab;
+    overflow: hidden;
+}
+
+.autor-txt{
+    margin-left: 20px;
+}
+
+.autor-txt h3 {
+    font-weight: bolder;
+    font-size: larger;
+    margin-bottom: 20px;
+}
